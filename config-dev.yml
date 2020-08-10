@@ -1,2 +1,3 @@
 
-zzzz
+config: 
+  info: "master branch,springcloud-config/config...."
